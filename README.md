@@ -75,6 +75,8 @@ React and Tailwind are two popular technologies that have taken the web developm
 
 ## Update Logs
 
+
+
 ### Version 1.3.7 - [June 20, 2024]
 
 #### Enhancements
